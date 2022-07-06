@@ -1,5 +1,5 @@
 {
-  "name": "remove-svg-properties",
+  "name": "remove-svg-properties-2",
   "version": "0.3.4",
   "description": "Remove attributes and styles from SVGs",
   "main": "index.js",
